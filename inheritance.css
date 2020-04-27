@@ -1,0 +1,9 @@
+/* line 1, inheritance.scss */
+.header, .information {
+  color: darkblue; }
+
+/* line 4, inheritance.scss */
+.header {
+  font-weight: bold; }
+
+/*# sourceMappingURL=inheritance.css.map */

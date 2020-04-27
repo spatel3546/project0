@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,qBAAO;EACL,KAAK,EAAE,QAAQ;;;AAEjB,OAAQ;EAEN,WAAW,EAAE,IAAI",
+"sources": ["inheritance.scss"],
+"names": [],
+"file": "inheritance.css"
+}

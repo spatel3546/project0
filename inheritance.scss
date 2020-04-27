@@ -1,0 +1,10 @@
+%table {
+  color: darkblue;
+}
+.header {
+  @extend %table;
+  font-weight: bold;
+}
+.information {
+  @extend %table;
+}
